@@ -1,0 +1,14 @@
+C:\Users\new\Desktop\hearostest\storeModel\bin\Debug\net7.0\storeModel.deps.json
+C:\Users\new\Desktop\hearostest\storeModel\bin\Debug\net7.0\storeModel.dll
+C:\Users\new\Desktop\hearostest\storeModel\bin\Debug\net7.0\storeModel.pdb
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.csproj.AssemblyReference.cache
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.AssemblyInfoInputs.cache
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.AssemblyInfo.cs
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.csproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.dll
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\refint\storeModel.dll
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.pdb
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\ref\storeModel.dll
+C:\Users\new\Desktop\hearostest\storeModel\bin\Debug\net7.0\storeModel.runtimeconfig.json
+C:\Users\new\Desktop\hearostest\storeModel\obj\Debug\net7.0\storeModel.genruntimeconfig.cache

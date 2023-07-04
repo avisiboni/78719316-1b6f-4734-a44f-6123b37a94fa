@@ -1,0 +1,17 @@
+C:\Users\new\Desktop\hearostest\storeDAL\bin\Debug\net7.0\storeDAL.deps.json
+C:\Users\new\Desktop\hearostest\storeDAL\bin\Debug\net7.0\storeDAL.dll
+C:\Users\new\Desktop\hearostest\storeDAL\bin\Debug\net7.0\storeDAL.pdb
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.csproj.AssemblyReference.cache
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.AssemblyInfoInputs.cache
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.AssemblyInfo.cs
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.csproj.CoreCompileInputs.cache
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.dll
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\refint\storeDAL.dll
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.pdb
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\ref\storeDAL.dll
+C:\Users\new\Desktop\hearostest\storeDAL\bin\Debug\net7.0\storeDAL.runtimeconfig.json
+C:\Users\new\Desktop\hearostest\storeDAL\bin\Debug\net7.0\storeModel.dll
+C:\Users\new\Desktop\hearostest\storeDAL\bin\Debug\net7.0\storeModel.pdb
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.csproj.CopyComplete
+C:\Users\new\Desktop\hearostest\storeDAL\obj\Debug\net7.0\storeDAL.genruntimeconfig.cache
